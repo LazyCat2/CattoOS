@@ -1,0 +1,4 @@
+name=Catto OS
+author=Lazy cat#2022
+description=github.com/Woolbex/CattoOS
+tags=Content
