@@ -59,7 +59,7 @@ function init()
 
 	msg=''
 	showLauncher=false
-	debug=true
+	debug=false
 	resizeMode=false
 	
 	showContextMenu=false
